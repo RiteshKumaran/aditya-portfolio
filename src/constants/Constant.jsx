@@ -11,7 +11,7 @@ import TailwindCSS from "../assets/TailwindCSS.png";
 import Vue from "../assets/Vue.png";
 
 import Hackthechain from "../assets/HackTheChainLogo.png";
-import GSSOC from "../assets/GSSoc.jpg";
+import GSSOC from "../assets/GSSoC.jpg";
 import IITB from "../assets/IITB.png";
 import Sports from "../assets/Sports_Club.png";
 import IIITians from "../assets/IIITians_Network.png";
