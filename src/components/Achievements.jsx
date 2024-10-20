@@ -18,7 +18,7 @@ import {
   Oppia,
 } from "../constants/Constant";
 
-const Experience = () => {
+const Achievement = () => {
   useEffect(() => {
     AOS.init();
   }, []);
@@ -61,4 +61,4 @@ const Experience = () => {
     </>
   );
 };
-export default Experience;
+export default Achievement;
