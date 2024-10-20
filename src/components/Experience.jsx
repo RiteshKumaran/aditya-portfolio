@@ -38,67 +38,23 @@ const Experience = () => {
             data-aos="zoom-in-up"
           >
             <Exp_prop
-              img={Oppia}
-              title="Oppia Foundation"
-              subtitle="LAcE Team Member"
-              date="November 2023 - present"
-              para="- Worked collabartively with developers from Russia and United States to remove the bugs, improving user experience."
+              title="Archery Academy"
+              subtitle="Coach"
+              date="Jan 2023 - present"
+              para="- Working as a head coach in vill archery academy. I coach for both archery and air rifle shooting. I work on the weekends. I have been in this sport for about 15 years. 13 years as a sportsman and 2 years as a coach."
             />
             <Exp_prop
-              img={KDE}
-              title="Season of KDE'24"
-              subtitle="Mentee"
-              date="January 2023 - present"
-              para="- SoK'24 mentee for the cantor project converting the documentation for several programming languages into QT Help files. "
+              title="Tech company"
+              subtitle="Intern"
+              date="Mar 2023 - Aug 2023"
+              para="- Worked in helping the firm build their personal portfolio and helped them build their brand. I also helped them create a product list and also learnt a thing or few about tax filing. I also got hands on experience in the sales department."
             />
+
             <Exp_prop
-              img={GDSC}
-              title="GDSC IIIT Kota"
-              subtitle="Web Development Lead"
-              date="August 2023 - present"
-              para="- Web Development Lead in Google Developers Student Club IIIT Kota"
-            />
-            <Exp_prop
-              img={IIIT_KOTA}
-              title="Webteam Trainee, IIIT Kota"
-              subtitle="Trainee"
-              date="August 2023 - present"
-              para="- Webteam Trainee for the maintaining and developing the official website of IIIT Kota"
-            />
-            <Exp_prop
-              img={IIITians}
-              title="IIITians Network"
-              subtitle="Tech Team Lead"
-              date="April 2023 - present"
-              para="- Worked collaboratively within a team to develop a captivating college social network website."
-            />
-            <Exp_prop
-              img={Sports}
-              title="Sports Council, IIIT Kota"
-              subtitle="Technical Team"
-              date="June 2023 - present"
-              para="- Worked collaboratively within a team to develop a captivating college sports website."
-            />
-            <Exp_prop
-              img={GSSOC}
-              title="GSSoC'23 Contributor"
-              subtitle="Contributor"
-              date="June 2023 - present"
-              para="- Contributed in open source repositories like GameSphere, OpenTech, Moksh, Community Website etc. "
-            />
-            <Exp_prop
-              img={Hackthechain}
-              title="Hack The Chain Hackathon, IIIT Kota"
-              subtitle="Organizing Team"
-              date="March 2023"
-              para="- Helped in Organizing the first hybrid Hackathon of IIIT Kota organized by GDSC IIITK and Codebase Club. "
-            />
-            <Exp_prop
-              img={IITB}
-              title="IIT Bombay Techfest 2016"
-              subtitle="Junior Participant"
-              date="December 2016"
-              para="- Created a solar energy based three-in-one project which included a Mobile Charger, Mini Fan and a Mini Centrifuge. "
+              title="Garage"
+              subtitle="Intern"
+              date="Mar 2016 - Aug 2016"
+              para="- Worked as an intern in a mechanic garage in the role of a junior staff and gained hands-on experience in automotive maintainence tasks"
             />
           </div>
         </div>

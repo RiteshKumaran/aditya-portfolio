@@ -36,15 +36,6 @@ const Project_prop = (props) => {
         </div>
 
         <p className="text-slate-500 mt-5 text-lg px-5">{props.para}</p>
-
-        <div className="flex gap-2 text-[#00040f] dark:text-slate-200 p-2 pl-5 mt-5 text-3xl">
-          <a href={props.github_link}>
-            <SiGithub />
-          </a>
-          <a href={props.link} target="_blank" rel="noreferrer">
-            <SlLink />
-          </a>
-        </div>
       </div>
     </>
   );

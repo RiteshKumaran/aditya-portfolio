@@ -39,9 +39,8 @@ const Projects = () => {
           data-aos="zoom-out-down"
         >
           <Project_prop
-            title="Portfolio Website"
-            para="Personal portfolio website created with react and Tailwind CSS"
-            img={Portfolio}
+            title="Petdoc"
+            para="website built to help keep track of pet health."
             link=""
             github_link=""
             react={
@@ -67,9 +66,9 @@ const Projects = () => {
             }
           />
           <Project_prop
-            title="Stark Rockets"
-            para="Stark is a fantasy and futuristic website which offers the ride of space-ship to the space"
-            img={Rocket}
+            title="Fablady's boutique website"
+            para="A website used to store measurements and can also be used as a website to display the work done by them and contact with their customers regarding their needs
+"
             link="https://stark-rockets.onrender.com/"
             github_link="https://github.com/DhairyaMajmudar/STARK"
             html5={
@@ -95,67 +94,9 @@ const Projects = () => {
             }
           />
           <Project_prop
-            title="Thrive"
-            para="Thrive is a website which primarily focuses on improving life-style and well-being"
+            title="Koor archery website"
+            para="developing a website to showcase their products and communicate with their customers on their needs."
             img={WellBeing}
-            link="https://dhairyamajmudar.github.io/Thrive/"
-            github_link="https://github.com/DhairyaMajmudar/Thrive"
-            html5={
-              <Tooltip title="HTML 5" arrow>
-                <IconButton>
-                  <SiHtml5 className="dark:text-slate-200 text-black" />
-                </IconButton>
-              </Tooltip>
-            }
-            javascript={
-              <Tooltip title="JavaScript" arrow>
-                <IconButton>
-                  <SiJavascript className="dark:text-slate-200 text-black" />
-                </IconButton>
-              </Tooltip>
-            }
-            css3={
-              <Tooltip title="CSS 3" arrow>
-                <IconButton>
-                  <SiCss3 className="dark:text-slate-200 text-black" />
-                </IconButton>
-              </Tooltip>
-            }
-          />
-          <Project_prop
-            title="GPT-4 Website"
-            para="GPT 4 is a website which focuses on introduction of AI to the world "
-            img={GPT4}
-            link="https://dhairya-majmudar-gpt-4.netlify.app/"
-            github_link="https://github.com/DhairyaMajmudar/GPT-4-Website"
-            react={
-              <Tooltip title="React" arrow>
-                <IconButton>
-                  <SiReact className="dark:text-slate-200 text-black" />
-                </IconButton>
-              </Tooltip>
-            }
-            javascript={
-              <Tooltip title="JavaScript" arrow>
-                <IconButton>
-                  <SiJavascript className="dark:text-slate-200 text-black" />
-                </IconButton>
-              </Tooltip>
-            }
-            css3={
-              <Tooltip title="CSS 3" arrow>
-                <IconButton>
-                  <SiCss3 className="dark:text-slate-200 text-black" />
-                </IconButton>
-              </Tooltip>
-            }
-          />
-          <Project_prop
-            title="Stone-Paper-Scissors Game"
-            para="A Stone Paper Scissors game created  to remember childhood memories"
-            img={Game}
-            link=""
-            github_link="https://github.com/DhairyaMajmudar/Stone-Paper-Scissors"
             html5={
               <Tooltip title="HTML 5" arrow>
                 <IconButton>
