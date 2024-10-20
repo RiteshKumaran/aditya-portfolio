@@ -5,7 +5,6 @@ import {
   Git,
   Vite,
   TailwindCSS,
-  react,
   Python,
   Javascript,
   CPP,
