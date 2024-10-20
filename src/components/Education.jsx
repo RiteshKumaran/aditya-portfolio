@@ -1,5 +1,5 @@
 import Lottie from "lottie-react";
-import education from "../assets/lottie/education.json";
+import education from "../assets/lottie/Education.json";
 import srm from "../assets/srm.png";
 import san from "../assets/san.png";
 
