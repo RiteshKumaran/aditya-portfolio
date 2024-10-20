@@ -22,7 +22,7 @@ const Education = () => {
         </h1>
 
         <div
-          className="EDUCATION flex  gap-7 justify-between flex-row-reverse max-sm:flex-col"
+          className="EDUCATION flex items-center  gap-7 justify-center  max-sm:flex-col"
           data-aos="fade-right"
         >
           <div>
@@ -65,11 +65,6 @@ const Education = () => {
               </div>
             </div>
           </div>
-          <Lottie
-            animationData={education}
-            loop={true}
-            className="max-w-[500px] shadow-xl rounded-xl border border-[#00040f]"
-          />
         </div>
       </div>
     </section>
