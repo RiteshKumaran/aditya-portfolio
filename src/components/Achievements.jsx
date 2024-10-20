@@ -1,6 +1,6 @@
 "use client";
 
-import Exp_prop from "./Ach_prop";
+import Ach_prop from "./Ach_prop";
 import Skills from "./Skills";
 import AOS from "aos";
 import "aos/dist/aos.css";
@@ -37,27 +37,26 @@ const Achievement = () => {
             className="EXPERIENCE mt-16 grid gap-20 max-sm:gap-10 max-sm:grid-cols-1 grid-cols-3"
             data-aos="zoom-in-up"
           >
-            <Exp_prop
+            <Ach_prop
               title="Kaladeioscope"
               para="- On-spot topic speech award for best presenter"
             />
-            <Exp_prop
+            <Ach_prop
               title="National level archer"
               para="- I have 4 silver medals and 1 gold medal in national level archery"
             />
 
-            <Exp_prop
+            <Ach_prop
               title="National level airrifle shooting"
               para="- I have 3 gold medals and 1 silver medal in national level shooting"
             />
-            <Exp_prop
+            <Ach_prop
               title="Extra"
               para="- Apart from these i have a combined of 45 gold medals 22 silver medals and 27 bronze medals in various competition levels in archery and air rifle making it a total of 94 medals."
             />
           </div>
         </div>
       </section>
-      <Skills></Skills>
     </>
   );
 };

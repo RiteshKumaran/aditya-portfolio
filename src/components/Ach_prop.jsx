@@ -3,10 +3,6 @@ const Ach_prop = (props) => {
     <>
       <div className="shadow-2xl rounded-3xl border-2 bg-[#e1e1e1] dark:bg-transparent dark:border-white border-[#00040f] h-[300px] max-sm:h-[450px] p-8 hover:bg-gradient-to-tl from-[#e1e1e1] to-[#fff] dark:from-[#00040F] dark:to-[#0B274C]">
         <div className="HEADER flex ">
-          <div className=" max-w-[80px] pr-3 mr-3">
-            <img src={props.img} alt="" />
-          </div>
-
           <div className="max-w-[125px]">
             <h1 className="text-transparent bg-clip-text bg-gradient-to-r inline from-blue-600 to-cyan-600 dark:from-cyan-500 dark:to-slate-200 text-2xl tracking-wide font-semibold ">
               {props.title}
